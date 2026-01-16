@@ -2,7 +2,7 @@
 
 ## 📊 Project Overview
 This project demonstrates a **real-world sales analysis and dashboard** built using **Microsoft Excel** with data inspired by Swiggy — India’s leading food delivery platform.  
-The goal is to extract business insights from raw sales data and turn them into **interactive visualizations** using pivot tables, slicers, and custom charts to help stakeholders understand performance trends and key metrics. :contentReference[oaicite:1]{index=1}
+The goal is to extract business insights from raw sales data and turn them into **interactive visualizations** using pivot tables, slicers, and custom charts to help stakeholders understand performance trends and key metrics.
 
 ---
 
