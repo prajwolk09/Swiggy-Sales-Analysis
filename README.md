@@ -37,4 +37,3 @@ The goal is to extract business insights from raw sales data and turn them into 
 
 ## 👤 Author
 **Prajowal Karki**
-Explore more data projects on my GitHub!
