@@ -39,5 +39,5 @@ The goal is to extract business insights from raw sales data and turn them into 
 **Prajowal Karki**
 
 <p align="center">
-  <img src="Screenshot 2026-01-21 115530.png" width="300" />
+  <img src="Screenshot 2026-01-21 115530.png" />
 </p>
